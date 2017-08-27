@@ -6,3 +6,6 @@ An android app to monitor audio and detect snoring
 ![Snore 2](https://github.com/akshaykota/SnoringDetection/raw/master/snore2.JPG)
 
 ![Snore 3](https://github.com/akshaykota/SnoringDetection/raw/master/snore3.JPG)
+
+References :
+https://github.com/soleo/android-sleep-tracker
